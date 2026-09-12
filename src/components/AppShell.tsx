@@ -42,7 +42,7 @@ function Marca({ compact }: { compact?: boolean }) {
           </div>
 
           <div className="text-xs text-primary">
-            ©creator - Henrique S
+            ©creator - Henrique S.
           </div>
         </div>
       )}
